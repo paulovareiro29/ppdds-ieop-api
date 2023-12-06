@@ -8,4 +8,4 @@ export const CLIENT_SECRET = process.env.CLIENT_SECRET;
 export const PRIMAVERA_AUTH_ENDPOINT =
   "https://identity.primaverabss.com/connect/token";
 export const PRIMAVERA_API_URL =
-  "https://my.jasminsoftware.com/api/311911/311911-0001";
+  "https://my.jasminsoftware.com/api/312047/312047-0001";
